@@ -1,4 +1,4 @@
-# Simple api project
+# Api and H2 (in memory)
 
 [![Simple api project](https://img.youtube.com/vi/PzGHZd4-dfA/default.jpg)](https://youtu.be/PzGHZd4-dfA)
 
